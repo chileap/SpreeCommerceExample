@@ -21,6 +21,7 @@ gem 'spree_gateway', '~> 3.1.0'
 
 gem 'spree_address_book', github: 'spree-contrib/spree_address_book', branch: '3-1-stable'
 gem 'spree_static_content', github: 'spree-contrib/spree_static_content'
+gem 'to_range'
 
 group :development, :test do
   gem 'pry'
